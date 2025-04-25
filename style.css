@@ -6,8 +6,18 @@ https://www.figma.com/design/OlIPrzqQJrdybpZJ0UyxMK/eCommerce-Website-%7C-Web-Pa
     margin: 0;
 }
 
+
+.navbar{
+    width: 100%;
+background-color: rgb(236, 147, 214);
+height: 100px;
+}
+
+
 .sec1{
 width: 100%;
+background-color: aqua;
+height: 200px;
 }
 
 
